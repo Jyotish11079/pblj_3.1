@@ -1,0 +1,45 @@
+03-Nov-2025 06:02:46.098 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.48
+03-Nov-2025 06:02:46.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 10 2025 14:33:56 UTC
+03-Nov-2025 06:02:46.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.48.0
+03-Nov-2025 06:02:46.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+03-Nov-2025 06:02:46.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.8.0-1030-azure
+03-Nov-2025 06:02:46.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+03-Nov-2025 06:02:46.146 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/local/sdkman/candidates/java/21.0.7-ms
+03-Nov-2025 06:02:46.146 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.7+6-LTS
+03-Nov-2025 06:02:46.146 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Microsoft
+03-Nov-2025 06:02:46.146 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /workspaces/pblj_3.1/tomcat
+03-Nov-2025 06:02:46.146 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /workspaces/pblj_3.1/tomcat
+03-Nov-2025 06:02:46.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/workspaces/pblj_3.1/tomcat/conf/logging.properties
+03-Nov-2025 06:02:46.263 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Nov-2025 06:02:46.263 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+03-Nov-2025 06:02:46.264 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Nov-2025 06:02:46.264 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+03-Nov-2025 06:02:46.264 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+03-Nov-2025 06:02:46.265 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Nov-2025 06:02:46.266 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+03-Nov-2025 06:02:46.266 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+03-Nov-2025 06:02:46.266 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+03-Nov-2025 06:02:46.267 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+03-Nov-2025 06:02:46.267 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Nov-2025 06:02:46.268 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/workspaces/pblj_3.1/tomcat
+03-Nov-2025 06:02:46.268 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/workspaces/pblj_3.1/tomcat
+03-Nov-2025 06:02:46.268 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/workspaces/pblj_3.1/tomcat/temp
+03-Nov-2025 06:02:46.271 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+03-Nov-2025 06:02:47.142 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+03-Nov-2025 06:02:47.196 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2100] milliseconds
+03-Nov-2025 06:02:47.318 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+03-Nov-2025 06:02:47.323 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.48]
+03-Nov-2025 06:02:47.336 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/workspaces/pblj_3.1/tomcat/webapps/ROOT]
+03-Nov-2025 06:02:48.446 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/workspaces/pblj_3.1/tomcat/webapps/ROOT] has finished in [1,109] ms
+03-Nov-2025 06:02:48.449 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/workspaces/pblj_3.1/tomcat/webapps/docs]
+03-Nov-2025 06:02:48.491 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/workspaces/pblj_3.1/tomcat/webapps/docs] has finished in [41] ms
+03-Nov-2025 06:02:48.491 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/workspaces/pblj_3.1/tomcat/webapps/examples]
+03-Nov-2025 06:02:48.947 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/workspaces/pblj_3.1/tomcat/webapps/examples] has finished in [455] ms
+03-Nov-2025 06:02:48.947 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/workspaces/pblj_3.1/tomcat/webapps/host-manager]
+03-Nov-2025 06:02:48.981 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/workspaces/pblj_3.1/tomcat/webapps/host-manager] has finished in [34] ms
+03-Nov-2025 06:02:48.982 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/workspaces/pblj_3.1/tomcat/webapps/UserLoginApp]
+03-Nov-2025 06:02:49.171 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/workspaces/pblj_3.1/tomcat/webapps/UserLoginApp] has finished in [190] ms
+03-Nov-2025 06:02:49.172 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/workspaces/pblj_3.1/tomcat/webapps/manager]
+03-Nov-2025 06:02:49.217 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/workspaces/pblj_3.1/tomcat/webapps/manager] has finished in [45] ms
+03-Nov-2025 06:02:49.223 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Nov-2025 06:02:49.234 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2036] milliseconds
